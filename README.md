@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img src="./assets/logo-megaip.png" alt="Mega IP Connect" width="320">
+  <img src="megaip-logo-transparent.png" alt="Mega IP Connect" width="320">
 </p>
 
 <img src="./assets/megaip-banner.gif" alt="Mega IP Connect — Conectando pessoas, empresas e tecnologia" width="100%">
